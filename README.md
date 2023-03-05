@@ -14,11 +14,11 @@
 
 #### 体验示例
 示例一：知识百科
-![知识百科](example1.jpg)  
+![知识百科](example1.jpg width=50%)  
 示例二：代码编写
-![代码编写](example2.jpg)  
+![代码编写](example2.jpg width=50%)  
 示例三：文案创作
-![文案创作](example3.jpg)  
+![文案创作](example3.jpg width=50%)  
 
 #### 欢迎体验
-![小程序](code.jpg)
+![小程序](code.jpg width=30%)
